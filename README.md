@@ -1,5 +1,5 @@
-# Aplikasi-Login
-Sebuah aplikasi dengan fitur login
+# Aplikasi-Animated-Login
+Sebuah aplikasi dengan fitur animasi login
 
 Alur Fitur Login:
 1. Memasukkan email dan password.
